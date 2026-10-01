@@ -1,0 +1,12 @@
+Metric,Value
+Total Customers Arrived,37
+Total Customers Served,37
+Average Time Per Customer (s),11.09
+Max Concurrent Washers,6
+Max Concurrent Dryers,4
+Average Washer Wait (s),0.04
+Average Dryer Wait (s),0.18
+Average Kiosk Wait (s),0.03
+Washer Failures,2
+Payment Failures,0
+Customers Abandoned (congested scenario),0
